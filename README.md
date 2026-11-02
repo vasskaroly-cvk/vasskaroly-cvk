@@ -1,16 +1,17 @@
-## Hi there 👋
+### Vass Károly (cvk)
 
-<!--
-**vasskaroly-cvk/vasskaroly-cvk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+IT Systems & Security Professional | Independent Theoretical Researcher | Event Photographer
 
-Here are some ideas to get you started:
+- 🌐 **Canonical Website:** [cvk.hu](https://cvk.hu)
+- 🆔 **ORCID:** [0009-0008-8060-6892](https://orcid.org/0009-0008-8060-6892)
+- 📍 **Location:** Budapest, Hungary
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Research & Publications
+- [Opto-Semantic Interface (OSI)](https://cvk.hu/osi/) – Deterministic, semantics-driven computation framework
+- [Iterative Quantum De-coherence Control (IQDC)](https://cvk.hu/iqdc/) – Coherence boundary maintenance in quantum systems
+- [Időhullám (Time-Buffer Model)](https://cvk.hu/idohullam/) – Conceptual model on temporal buffering and the block universe
+
+#### Focus Areas
+- Infrastructure Architecture, Directory Services & Hardening
+- Mail Systems (MTA-STS, DANE, DNSSEC, SPF/DKIM/DMARC)
+- Non-commercial event photography (HCW Wrestling, MondoCon)
